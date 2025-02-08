@@ -3,7 +3,7 @@
 
 ## Live Demo
 
-🔗 **[Affirmations and Mantras]([https://tdmanning.github.io/Rock-Paper-Scissors/](https://tdmanning.github.io/self-care-center/)**  
+🔗 **[Affirmations and Mantras]([https://tdmanning.github.io/self-care-center/])**  
 
 ### Abstract:
 [//]: <> 
