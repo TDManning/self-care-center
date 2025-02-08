@@ -82,17 +82,22 @@ h2 {
 
 .delete-message-wrapper {
   display: flex;
-  justify-content: center;
-  color: #ffffff;
-  background: #84a8bf;
-  font-family: 'Quicksand';
+  justify-content: center; 
+  padding: 10px; 
 }
 
 .delete-message-button {
-  background-color: #134d71;
+  background-color: #1b4e6e;
   border-radius: 5px; 
   color: white;
+  width: auto; 
+  padding: 10px 20px; 
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  display: inline-block; 
 }
+
 
 .hidden {
   display: none;
