@@ -1,9 +1,9 @@
 # Self-Care Center 
 
-
 ## Live Demo
+Click the link below to use the Self Care Center:
 
-🔗 **[Affirmations and Mantras]([https://tdmanning.github.io/self-care-center/])**  
+🔗 **[Self Care Center - Try it Here!](https://tdmanning.github.io/self-care-center/)**  
 
 ### Abstract:
 [//]: <> 
